@@ -1,0 +1,15 @@
+p {
+    box-sizing: border-box;
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid black;
+    border-right:5px dotted #059;
+    /*---*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   /*---*/
+    margin: 10px 20px
+}
